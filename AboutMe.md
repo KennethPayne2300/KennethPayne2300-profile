@@ -24,4 +24,4 @@ I hope to learn how to protect my games from hackers
 
  - my mom
  - my dad
-<img src="images/20220911_124513">
+<img src="images/20220911_124513.jpg">
