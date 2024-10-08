@@ -28,7 +28,7 @@ I hope to learn how to protect my games from hackers
 
 Song Name|Artist|Genre|Year Released|Notes
 |---|---|---|---|---|
-Inner steel|Jeppe Riddervold|pop|may 2022|
+Inner steel|Jeppe Riddervold - ninjago|pop|may 2022|
 Ten for Ninjago|The fold|pop|2021|
 Exceptional zed|zombies 3|pop|july 15, 2022|
 Make believe|Jakeneutron|pop|jan 21, 2023|
