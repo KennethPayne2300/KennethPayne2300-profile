@@ -37,4 +37,4 @@ We Rise|ninjago|pop|june 1, 2023|
 ```python
 ~~~print("hello world")~~~
 ```
-"the best way to defeat your enemy is to make them your friend"
+"the best way to defeat your enemy is to make them your friend" -Master Wu - Ninjago
