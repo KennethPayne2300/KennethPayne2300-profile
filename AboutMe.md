@@ -25,3 +25,16 @@ I hope to learn how to protect my games from hackers
  - my mom
  - my dad
 <img src="images/20220911_124513.jpg">
+
+Song Name|Artist|Genre|Year Released|Notes
+|---|---|---|---|---|
+Inner steel|Jeppe Riddervold|pop|may 2022|
+Ten for Ninjago|The fold|pop|2021|
+Exceptional zed|zombies 3|pop|july 15, 2022|
+Make believe|Jakeneutron|pop|jan 21, 2023|
+We Rise|ninjago|pop|june 1, 2023|
+
+```python
+~~~print("hello world")~~~
+```
+"the best way to defeat your enemy is to make them your friend"
